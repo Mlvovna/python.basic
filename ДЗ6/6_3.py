@@ -29,3 +29,6 @@ print(sys.getsizeof(n))
 print(sys.getsizeof(m))
 print(sys.getsizeof(x))
 print(sys.getsizeof(y))
+
+#Python 3.7.2
+#ОС 64-разрядная

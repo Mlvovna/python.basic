@@ -14,3 +14,6 @@ print('Индексы четных элементов массива: ',even)
 
 print(sys.getsizeof(n))
 print(sys.getsizeof(m))
+
+#Python 3.7.2
+#ОС 64-разрядная

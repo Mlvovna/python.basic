@@ -12,3 +12,6 @@ while i < len(a):
 	i += 1
 
 print(sys.getsizeof(a))
+
+#Python 3.7.2
+#ОС 64-разрядная
